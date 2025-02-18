@@ -1,5 +1,5 @@
 
-import { TaskList } from "./TaskLIst"
+import { TaskList } from "./TaskList"
 
 
 export function TaskPage() {
